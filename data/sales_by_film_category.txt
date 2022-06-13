@@ -1,3 +1,4 @@
+category,total_sales
 Sports,5314.21
 Sci-Fi,4756.98
 Animation,4656.30

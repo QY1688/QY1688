@@ -1,3 +1,4 @@
+ID,name,address,zip code,phone,city,country,notes,SID
 218,VERA MCCOY,1168 Najafabad Parkway,40301,886649065861,Kabul,Afghanistan,active,1
 441,MARIO CHEATHAM,1924 Shimonoseki Drive,52625,406784385440,Batna,Algeria,active,1
 69,JUDY GRAY,1031 Daugavpils Parkway,59025,107137400143,Bchar,Algeria,active,2
